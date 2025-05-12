@@ -24,6 +24,7 @@ invertida, ou seja, da última posição para a primeira. O programa principal d
 usuário o preenchimento do vetor com números inteiros. A função recursiva, que deve receber o
 vetor e seu tamanho, será responsável por exibir os valores na ordem inversa. (3,0)
  4. Analise o código a seguir e responda às questões:
+ '''
 #include &lt;iostream&gt;
 using namespace std;
 void soma(int &amp;a, int &amp;b, int &amp;resultado) {
@@ -36,6 +37,7 @@ int main()
     cout &lt;&lt;&quot;Resultado: &quot;&lt;&lt; r &lt;&lt; endl;
     return 0;
 }
+'''
     1.  No contexto sobre modularização, o que significa &amp;a, &amp;b e &amp;resultado na /passagem de
 parâmetros para uma função? (1,0)
     1.  Modifique a função apresentada na questão para que a passagem de parâmetros seja feita por
